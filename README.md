@@ -1,1 +1,1 @@
-# ss
+# Simple LSTM implementation with Keras 
